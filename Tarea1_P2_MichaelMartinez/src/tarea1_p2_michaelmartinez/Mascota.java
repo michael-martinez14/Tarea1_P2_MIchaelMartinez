@@ -69,7 +69,7 @@ public class Mascota {
 
     @Override
     public String toString() {
-        return "Nombre: " + nombre + "| Tipo: " + tipo + "| Fecha: " + fecha + "| Color: " + color + "| Precio: " + precio;
+        return "Nombre: " + nombre + " | Tipo: " + tipo + " | Fecha: " + fecha + " | Color: " + color + " | Precio: " + precio;
     }
     
     
